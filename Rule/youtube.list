@@ -186,6 +186,8 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-KEYWORD,youtube
 USER-AGENT,*YouTubeMusic*
