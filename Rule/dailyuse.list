@@ -16,6 +16,11 @@ DOMAIN-SUFFIX,twitter.net
 
 
 
+## DOMAIN-SUFFIX,spotify.com
+
+## DOMAIN-SUFFIX,spotifycdn.com
+
+
 ##telegram
 DOMAIN-KEYWORD,91.108.56.142
 DOMAIN-KEYWORD,149.154.175.50
