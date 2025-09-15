@@ -1,0 +1,1105 @@
+proxies:
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    auth_str: dongtaiwang.com
+    delay: 1147
+    down: '100'
+    name: "\U0001F1EB\U0001F1F7法国1 | ⬇️ 2.7MB/s"
+    obfs: ''
+    port: 15010
+    protocol: ''
+    server: 195.154.200.40
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: '100'
+  - alterId: '1'
+    cipher: auto
+    name: "\U0001F1E9\U0001F1EA德国1 | ⬇️ 4.8MB/s"
+    network: ws
+    port: 443
+    server: serkat.org
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers: {}
+      path: /linkvws
+    xudp: true
+    servername: serkat.org
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8美国1 | ⬇️ 9.5MB/s"
+    password: 253bc477d4e43c209f2d427272968280
+    port: 2966
+    server: xingxing.jiasu123.org
+    skip-cert-verify: true
+    sni: 23.45.86.28
+    type: trojan
+    udp: true
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1EE芬兰1 | ⬇️ 7.0MB/s"
+    network: ws
+    port: 2087
+    server: 104.21.96.108
+    tls: true
+    type: vless
+    udp: true
+    uuid: cd7f3c2f-8d6d-4ad8-98eb-fb10e0f6da9e
+    ws-opts:
+      headers:
+        Host: interimrita.shividpolo.store
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /downloader?ed=2048
+    xudp: true
+    servername: interimrita.shividpolo.store
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EB\U0001F1F7法国2 | ⬇️ 3.6MB/s"
+    network: grpc
+    port: 25365
+    server: 141.94.213.115
+    type: vless
+    udp: true
+    uuid: 2715b5fc-a3a8-49dd-8c10-55f18f3030c5
+    xudp: true
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F300其他1-DK | ⬇️ 3.7MB/s"
+    network: grpc
+    port: 25365
+    server: 141.227.172.56
+    type: vless
+    udp: true
+    uuid: 59076475-a35e-4b5b-8e60-da7f215f618b
+    xudp: true
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1荷兰1 | ⬇️ 2.1MB/s"
+    network: ws
+    password: XWnVX2ASHl
+    port: 37757
+    server: 5.255.103.217
+    skip-cert-verify: false
+    sni: moshali.arshiacomplus.dpdns.org
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/60.0.3112.101 Safari/537.36
+      path: /moshaliplus
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F300其他2-CZ | ⬇️ 8.0MB/s"
+    network: grpc
+    port: 25365
+    server: 141.227.134.153
+    type: vless
+    udp: true
+    uuid: 0a708abd-79b3-420d-a564-e8a1ff580f83
+    xudp: true
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1FA\U0001F1F8美国2 | ⬇️ 3.7MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: dongtaiwang.com
+    port: 22222
+    server: 208.87.243.187
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1E9\U0001F1EA德国2 | ⬇️ 4.3MB/s"
+    obfs: ''
+    obfs-password: ''
+    password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
+    port: 31468
+    server: 77.223.214.193
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EA德国3 | ⬇️ 575KB/s"
+    network: ws
+    port: 2083
+    server: 172.66.47.175
+    tls: true
+    type: vless
+    udp: true
+    uuid: 4d794980-54c0-4fcb-8def-c2beaecadbad
+    ws-opts:
+      headers:
+        Host: azadnet05.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.112 Safari/537.36
+      path: /lZU7WqWIDqC1jRn6?ed
+    xudp: true
+    servername: azadnet05.pages.dev
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F300其他3-GR | ⬇️ 1.3MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: Mjz6Gz75xTMe9ZU08h0y-A_VgRQ6tnt3qoOzdEn1k1M
+      short-id: 0fa84b90
+    server: 185.39.207.121
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6035325d-399a-5148-9126-29cedfd5966a
+    xudp: true
+    servername: outlook.office.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1F3\U0001F1F1荷兰2 | ⬇️ 4.9MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: pkZa9TardvnaDfimseVPbjDc13ZjSar2zWtbdhFmTFQ
+      short-id: aa9d9548
+    server: 5.180.52.11
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6035325d-399a-5148-9126-29cedfd5966a
+    xudp: true
+    servername: outlook.office.com
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F1E9\U0001F1EA德国4 | ⬇️ 8.2MB/s"
+    password: Yx2sF4XRHe7rS8Ng6elm7B
+    port: 8443
+    server: 83.172.138.149
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1F7法国3 | ⬇️ 5.5MB/s"
+    network: ws
+    port: 443
+    server: 104.21.28.82
+    tls: true
+    type: vless
+    udp: true
+    uuid: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+    ws-opts:
+      headers:
+        Host: backhaxus.dh04.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /
+    xudp: true
+    servername: backhaxus.dh04.shop
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国5 | ⬇️ 4.6MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: deu316.unlocknet.org
+    tls: true
+    type: vless
+    udp: true
+    uuid: 77b3bda7-4ee3-4c99-bad1-a935f7e027c8
+    xudp: true
+    servername: www.bing.com
+  - client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1F7法国4 | ⬇️ 3.9MB/s"
+    network: ws
+    port: 443
+    server: 172.67.170.107
+    tls: true
+    type: vless
+    udp: true
+    uuid: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+    ws-opts:
+      headers:
+        Host: backhaxus.dh04.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.102 Safari/537.36
+      path: /
+    xudp: true
+    servername: backhaxus.dh04.shop
+  - client-fingerprint: chrome
+    name: "\U0001F1E9\U0001F1EA德国6 | ⬇️ 4.1MB/s"
+    network: tcp
+    port: 33140
+    reality-opts:
+      public-key: BTsXykRA0mUv-PP6ncIQqjBMz_HRueLob9CNHT9QpGM
+      short-id: '53'
+    server: 91.107.245.212
+    tls: true
+    type: vless
+    udp: true
+    uuid: 74e7c336-abf1-44ea-bffa-8a419224ee7a
+    xudp: true
+    servername: addons.mozilla.org
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国7 | ⬇️ 7.6MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: 91.219.23.102
+    tls: true
+    type: vless
+    udp: true
+    uuid: 77b3bda7-4ee3-4c99-bad1-a935f7e027c8
+    xudp: true
+    servername: www.bing.com
+  - client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1荷兰3 | ⬇️ 1.2MB/s"
+    network: ws
+    port: 443
+    server: 104.16.3.5
+    tls: true
+    type: vless
+    udp: true
+    uuid: 963816bd-b6e7-4648-abff-8af25bc07d87
+    ws-opts:
+      headers:
+        Host: gulf-d96.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.3
+          (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
+      path: /ecY3gziM8W6ud5yj?ed
+    xudp: true
+    servername: gulf-d96.pages.dev
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F300其他4-BG | ⬇️ 4.7MB/s"
+    network: grpc
+    port: 25365
+    server: 141.227.178.165
+    type: vless
+    udp: true
+    uuid: 919526f8-86c8-4f43-b5f7-91eea1368bad
+    xudp: true
+  - name: "\U0001F1EC\U0001F1E7英国1 | ⬇️ 745KB/s"
+    network: ws
+    port: 8443
+    server: bm.boulvarmoein.shop
+    type: vless
+    udp: true
+    uuid: v2rayng_76
+    ws-opts:
+      headers:
+        Host: bm.boulvarmoein.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /Telegram@v2rayng_76=?ed=2560
+    xudp: true
+  - alpn:
+      - ''
+    alterId: '0'
+    cipher: auto
+    name: "\U0001F1E9\U0001F1EA德国8 | ⬇️ 4.6MB/s"
+    network: ws
+    port: 443
+    server: serkat.org
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: serkat.org
+      path: /linkvws
+    xudp: true
+    servername: serkat.org
+  - alterId: 1
+    cipher: auto
+    name: "\U0001F1E9\U0001F1EA德国9 | ⬇️ 5.6MB/s"
+    network: ws
+    port: 443
+    server: kampong.org
+    skip-cert-verify: false
+    tls: true
+    type: vmess
+    udp: true
+    uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+    ws-opts:
+      headers:
+        Host: kampong.org
+      path: /linkvws
+    xudp: true
+    servername: kampong.org
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EB\U0001F1F7法国5 | ⬇️ 5.6MB/s"
+    network: grpc
+    port: 15341
+    server: 152.228.213.209
+    type: vless
+    udp: true
+    uuid: 2360666f-c997-476e-b9d0-6406c41e7ee5
+    xudp: true
+  - name: "\U0001F1F3\U0001F1F1荷兰4 | ⬇️ 3.8MB/s"
+    network: ws
+    port: 26129
+    server: 164.92.145.207
+    type: vless
+    udp: true
+    uuid: acc1a984-2a8b-4dce-ab45-d294e6f3e451
+    ws-opts:
+      headers:
+        Host: soft98.ir
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /winrar
+    xudp: true
+  - name: "\U0001F1E9\U0001F1EA德国10 | ⬇️ 9.5MB/s"
+    network: ws
+    port: 2082
+    server: www.speedtest.net
+    type: vless
+    udp: true
+    uuid: 8517c298-f774-48cc-96bf-cad9844aa1a2
+    ws-opts:
+      headers:
+        Host: >-
+          novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/61.0.3163.79 Safari/537.36
+      path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
+    xudp: true
+  - name: "\U0001F1E9\U0001F1EA德国11 | ⬇️ 4.8MB/s"
+    network: tcp
+    port: 35048
+    server: 38.244.163.100
+    type: vless
+    udp: true
+    uuid: 5690f021-86a7-4712-b143-7944c7380436
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国12 | ⬇️ 5.1MB/s"
+    network: tcp
+    port: 8081
+    reality-opts:
+      public-key: nT4JZTeUVOw-XZ-htdqbFi1je4ZHeg-ALICrDk2usFE
+      short-id: d19d7a2d3da8595a
+    server: 51.89.2.113
+    tls: true
+    type: vless
+    udp: true
+    uuid: f924939e-2d9a-46b7-a3c2-67a225b7c027
+    xudp: true
+    servername: yahoo.com
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EC\U0001F1E7英国2 | ⬇️ 1.7MB/s"
+    network: grpc
+    port: 25365
+    server: 51.89.230.180
+    type: vless
+    udp: true
+    uuid: 72c17850-c1a8-4915-a437-45de2645a6e1
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1E9\U0001F1EA德国13 | ⬇️ 2.9MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: 91.219.23.100
+    tls: true
+    type: vless
+    udp: true
+    uuid: 77b3bda7-4ee3-4c99-bad1-a935f7e027c8
+    xudp: true
+    servername: www.bing.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1E9\U0001F1EA德国14 | ⬇️ 2.7MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: 91.219.23.129
+    tls: true
+    type: vless
+    udp: true
+    uuid: 77b3bda7-4ee3-4c99-bad1-a935f7e027c8
+    xudp: true
+    servername: www.bing.com
+  - cipher: aes-256-cfb
+    name: "\U0001F1F3\U0001F1F1荷兰5 | ⬇️ 7.5MB/s"
+    password: f8f7aCzcPKbsF8p3
+    port: 989
+    server: 51.15.17.169
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1E9\U0001F1EA德国15 | ⬇️ 8.0MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: 91.219.23.90
+    tls: true
+    type: vless
+    udp: true
+    uuid: 77b3bda7-4ee3-4c99-bad1-a935f7e027c8
+    xudp: true
+    servername: www.bing.com
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1E9\U0001F1EA德国16 | ⬇️ 8.4MB/s"
+    network: grpc
+    port: 36626
+    server: 57.129.92.155
+    type: vless
+    udp: true
+    uuid: 4981b98f-4943-4083-83aa-00b028f57a18
+    xudp: true
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EB\U0001F1F7法国6 | ⬇️ 7.6MB/s"
+    network: grpc
+    port: 19822
+    server: 51.178.223.140
+    type: vless
+    udp: true
+    uuid: c79bbc2d-a020-4a2a-b12d-c288e018d9a0
+    xudp: true
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EB\U0001F1F7法国7 | ⬇️ 3.9MB/s"
+    network: grpc
+    port: 24830
+    server: 51.91.141.226
+    type: vless
+    udp: true
+    uuid: ec6ecb01-c532-4926-81dc-31592ba50c72
+    xudp: true
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F300其他5-NO | ⬇️ 1.5MB/s"
+    network: grpc
+    port: 11230
+    server: 141.227.166.22
+    type: vless
+    udp: true
+    uuid: a1015799-6c9a-4bab-8ad0-8c9444d46fa0
+    xudp: true
+  - grpc-opts:
+      grpc-service-name: >-
+        ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    name: "\U0001F1EB\U0001F1EE芬兰2 | ⬇️ 3.4MB/s"
+    network: grpc
+    port: 34219
+    server: 141.227.170.209
+    type: vless
+    udp: true
+    uuid: 9e55dc25-81b3-455c-898c-1fcdd90e55f0
+    xudp: true
+  - client-fingerprint: randomized
+    name: "\U0001F1F3\U0001F1F1荷兰6 | ⬇️ 3.0MB/s"
+    network: ws
+    port: 443
+    server: 104.248.193.151
+    tls: true
+    type: vless
+    udp: true
+    uuid: 00fcbecb-d832-40a0-b2b1-76bb56df166b
+    ws-opts:
+      headers:
+        Host: joss.krikkrik.tech
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; WAS-LX3 Build/HUAWEIWAS-LX3)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /Free-VPN-CF-Geo-Project/NL10
+    xudp: true
+    servername: joss.krikkrik.tech
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国17 | ⬇️ 5.6MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs
+      short-id: ''
+    server: deu191.unboundaccess.org
+    tls: true
+    type: vless
+    udp: true
+    uuid: 44d0b96e-f272-49e4-8f22-c89a340dd304
+    xudp: true
+    servername: www.bing.com
+  - client-fingerprint: randomized
+    name: "\U0001F300其他6-AT | ⬇️ 3.8MB/s"
+    network: ws
+    port: 443
+    server: 77.73.131.188
+    tls: true
+    type: vless
+    udp: true
+    uuid: e74b8b09-ed18-4a7c-96f8-175767797fd2
+    ws-opts:
+      headers:
+        Host: joss.krikkrik.tech
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/57.0.2987.133 Safari/537.36
+      path: /Free-VPN-CF-Geo-Project/AT2
+    xudp: true
+    servername: joss.krikkrik.tech
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F1E9\U0001F1EA德国18 | ⬇️ 7.9MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ
+      short-id: cd0b563c7e0ea754
+    server: de.axonet.ru
+    tls: true
+    type: vless
+    udp: true
+    uuid: c8faa9f1-8473-4034-acab-2c3bbdaf551c
+    xudp: true
+    servername: www.chip.de
+  - client-fingerprint: ios
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EF\U0001F1F5日本1 | ⬇️ 1.1MB/s"
+    network: tcp
+    port: 10109
+    reality-opts:
+      public-key: 3Iq38XpqVknNjUrY0mCuiLgYuZpk4h5yf5JHcSIQUnA
+      short-id: f340325d
+    server: 142.91.105.219
+    tls: true
+    type: vless
+    udp: true
+    uuid: d7aeab39-577b-466b-8906-8632bcb97a24
+    xudp: true
+    servername: www.douyin.com
+  - name: "\U0001F1E9\U0001F1EA德国19 | ⬇️ 8.1MB/s"
+    network: >-
+      tcp¬e=telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---telegram---@raiv2mmr---
+    port: 36235
+    server: 91.107.162.32
+    type: vless
+    udp: true
+    uuid: 7f725b53-eef0-45b4-8456-27c1175cb964
+    xudp: true
+  - alpn:
+      - h3
+    client-fingerprint: randomized
+    name: "\U0001F1F3\U0001F1F1荷兰7 | ⬇️ 558KB/s"
+    network: ws
+    password: bpb-trojan
+    port: 443
+    server: 104.21.75.193
+    skip-cert-verify: false
+    sni: mashdt.pages.dev
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 4.4.2; de-de; SAMSUNG GT-I9195
+          Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/1.5
+          Chrome/28.0.1500.94 Mobile Safari/537.36
+      path: /tr?ed=2560
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F300其他7-SI | ⬇️ 5.7MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA
+      short-id: 4ff781da
+    server: 194.58.66.234
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6035325d-399a-5148-9126-29cedfd5966a
+    xudp: true
+    servername: outlook.office.com
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    name: "\U0001F300其他8-TR | ⬇️ 1.5MB/s"
+    network: tcp
+    port: 443
+    reality-opts:
+      public-key: Sme97sNqVfXu7kMltKRGfATVNW8vJq9kS-bUaHNVlQE
+      short-id: ca0b125c
+    server: 104.239.87.144
+    tls: true
+    type: vless
+    udp: true
+    uuid: 6035325d-399a-5148-9126-29cedfd5966a
+    xudp: true
+    servername: outlook.office.com
+  - client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1F7法国8 | ⬇️ 4.4MB/s"
+    network: ws
+    port: 443
+    server: backhaxus.dh04.shop
+    tls: true
+    type: vless
+    udp: true
+    uuid: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+    ws-opts:
+      headers:
+        Host: backhaxus.dh04.shop
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.94 Safari/537.36
+      path: /
+    xudp: true
+    servername: backhaxus.dh04.shop
+  - cipher: aes-256-cfb
+    name: "\U0001F300其他9-VN | ⬇️ 816KB/s"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.22
+    type: ss
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8美国3 | ⬇️ 573KB/s"
+    network: ws
+    port: 80
+    server: 188.114.98.6
+    type: vless
+    udp: true
+    uuid: 4751adcd-064b-493e-979b-b1c56c133cb4
+    ws-opts:
+      headers:
+        Host: steep-water-754d-ppal0333333333333333.finisal307.workers.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /
+    xudp: true
+  - client-fingerprint: random
+    name: "\U0001F1E9\U0001F1EA德国20 | ⬇️ 6.0MB/s"
+    network: ws
+    port: 4002
+    server: 45.145.42.229
+    tls: true
+    type: vless
+    udp: true
+    uuid: 601e7e24-0697-4fed-9715-f3336ad5094c
+    ws-opts:
+      headers:
+        Host: aboringdad.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/70.0.3538.80 Mobile Safari/537.36
+      path: '/proxyip=45.145.42.229:4002'
+    xudp: true
+    servername: aboringdad.dpdns.org
+  - alpn:
+      - h2
+    client-fingerprint: randomized
+    name: "\U0001F1F3\U0001F1F1荷兰8 | ⬇️ 646KB/s"
+    network: ws
+    port: 443
+    server: 172.66.45.24
+    tls: true
+    type: vless
+    udp: true
+    uuid: f744c2dc-1359-494c-9808-d81ce7665d58
+    ws-opts:
+      headers:
+        Host: reAl-madrID9248.pagEs.dEv
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/46.0.2490.86 Safari/537.36
+      path: /LQlBRp7bKt33t0q2?ed=2560
+    xudp: true
+    servername: reAl-madrID9248.pagEs.dEv
+  - alpn:
+      - http/1.1
+    client-fingerprint: randomized
+    name: "\U0001F300其他10-AM | ⬇️ 1.1MB/s"
+    network: ws
+    port: 2053
+    server: 172.66.47.110
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2e9aa27d-8977-46fe-85ab-28aba1517210
+    ws-opts:
+      headers:
+        Host: arusi-khunin.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/49.0.2623.87 Safari/537.36
+      path: /0VhT0yIJdAFV635Z/MjEzLjE1OS43Ni4xNzUsMi41Ni4yMDQuMTgz?ed=2560
+    xudp: true
+    servername: ARUsI-khUnin.PaGES.dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: randomized
+    name: "\U0001F300其他11-AM | ⬇️ 763KB/s"
+    network: ws
+    port: 8443
+    server: 172.66.47.110
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2e9aa27d-8977-46fe-85ab-28aba1517210
+    ws-opts:
+      headers:
+        Host: arusi-khunin.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/67.0.3396.87 Safari/537.36
+      path: /5ec1KYNqznslb1nE/MjEzLjE1OS43Ni4xNzUsMi41Ni4yMDQuMTgz?ed=2560
+    xudp: true
+    servername: arusI-khUniN.PAGeS.Dev
+  - alpn:
+      - http/1.1
+    client-fingerprint: randomized
+    name: "\U0001F300其他12-AM | ⬇️ 2.0MB/s"
+    network: ws
+    port: 443
+    server: 172.66.47.110
+    tls: true
+    type: vless
+    udp: true
+    uuid: 2e9aa27d-8977-46fe-85ab-28aba1517210
+    ws-opts:
+      headers:
+        Host: arusi-khunin.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/62.0.3202.89 Safari/537.36
+      path: /WDGzj6MH9otCt9fI/MjEzLjE1OS43Ni4xNzUsMi41Ni4yMDQuMTgz?ed=2560
+    xudp: true
+    servername: aRUSi-KhUNIN.pAgEs.Dev
+  - client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8美国4 | ⬇️ 688KB/s"
+    network: ws
+    port: 443
+    server: 104.21.90.226
+    tls: true
+    type: vless
+    udp: true
+    uuid: e4cbe8b8-37db-4aaa-8469-b84f34c51ebc
+    ws-opts:
+      headers:
+        Host: 444rrrt5.7777155.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/56.0.2924.87 Safari/537.36
+      path: /6OWLjRc26b0nHYr5hYXD
+    xudp: true
+    servername: 444RRrt5.7777155.xYZ
+  - alpn:
+      - http/1.1
+    client-fingerprint: firefox
+    name: "\U0001F300其他13-AT | ⬇️ 4.9MB/s"
+    network: ws
+    port: 443
+    server: 104.27.62.243
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3c36eadb-747a-4166-8db0-23fec9883ea2
+    ws-opts:
+      headers:
+        Host: harmony-427.pages.dev
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: /?ed=2048
+    xudp: true
+    servername: HarmonY-427.pages.DEV
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1EE芬兰3 | ⬇️ 2.2MB/s"
+    network: ws
+    port: 2087
+    server: www.researchgate.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: cd7f3c2f-8d6d-4ad8-98eb-fb10e0f6da9e
+    ws-opts:
+      headers:
+        Host: interimrita.shividpolo.store
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0; CAM-L03 Build/HUAWEICAM-L03)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: /downloader?ed=2048
+    xudp: true
+    servername: interimrita.shividpolo.store
+rule-providers:
+  private:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
+    path: ./ruleset/private.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.yaml
+    path: ./ruleset/cn_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    path: ./ruleset/telegram_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  google_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.yaml
+    path: ./ruleset/google_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  geolocation-!cn:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.yaml
+    path: ./ruleset/geolocation-!cn.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/cn.yaml
+    path: ./ruleset/cn_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/telegram.yaml
+    path: ./ruleset/telegram_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  google_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/google.yaml
+    path: ./ruleset/google_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bing/Bing.yaml
+    path: ./ruleset/bing.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  copilot:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  claude:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/claude.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bard:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    path: ./ruleset/bard.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  openai:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+proxy-groups:
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png'
+    name: AIGC
+    type: select
+    proxies:
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png'
+    name: Telegram
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Google.png'
+    name: Google
+    type: select
+    proxies:
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/HK.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)香港|Hong Kong|HK|\U0001F1ED\U0001F1F0"
+    name: HK AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)新加坡|Singapore|\U0001F1F8\U0001F1EC"
+    name: SG AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)日本|Japan|\U0001F1EF\U0001F1F5"
+    name: JP AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)美国|USA|\U0001F1FA\U0001F1F8"
+    name: US AUTO
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Global.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|频道|订阅|ISP|流量|到期|重置
+    proxies:
+      - PROXY
+      - AUTO
+      - AIGC
+      - Telegram
+      - Google
+      - HK AUTO
+      - SG AUTO
+      - JP AUTO
+      - US AUTO
+    name: GLOBAL
+    type: select
+rules:
+  - 'PROCESS-NAME,subs-check.exe,DIRECT'
+  - 'PROCESS-NAME,subs-check,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,bing,AIGC'
+  - 'RULE-SET,copilot,AIGC'
+  - 'RULE-SET,bard,AIGC'
+  - 'RULE-SET,openai,AIGC'
+  - 'RULE-SET,claude,AIGC'
+  - 'RULE-SET,steam,PROXY'
+  - 'RULE-SET,telegram_domain,Telegram'
+  - 'RULE-SET,telegram_ip,Telegram'
+  - 'RULE-SET,google_domain,Google'
+  - 'RULE-SET,google_ip,Google'
+  - 'RULE-SET,geolocation-!cn,PROXY'
+  - 'RULE-SET,cn_domain,DIRECT'
+  - 'RULE-SET,cn_ip,DIRECT'
+  - 'MATCH,PROXY'
